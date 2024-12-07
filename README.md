@@ -15,6 +15,10 @@
 <a name="investment-calculator-app"></a>
 ### [Investment Calculator App](https://github.com/Emir0zcelik/AngularProjects/tree/main/Project_2/01-starting-project)
 #### Main View
-![image](https://github.com/user-attachments/assets/1068fd93-74ee-4ded-8bed-f5f59ef48d72)
+![image](https://github.com/user-attachments/assets/22eb3c2d-0486-4a9c-a612-c16d96cdbdfe)
+#### Calculate View
+![image](https://github.com/user-attachments/assets/bb61e0de-969b-4ac5-a19a-8faac082ea8a)
+
+
 
 
